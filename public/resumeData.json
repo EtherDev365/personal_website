@@ -11,7 +11,7 @@
     "project":"https://github.com/EtherDev365",
     "address":{
       "street":"West 4th Street",
-      "city":"New York",
+      "city":"Wolfsburg",
       "zip": "10012"
     },
     "website": "https://www.goodcv.com/cv/7bedcbbd29b2ad66791fa0717f80d53f",
@@ -51,7 +51,7 @@
         "school":"BERUFSBILDENDE SCHULE COCHEM",
         "degree":"Bachelor's degree in computer science",
         "graduated":"December 2014",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"I was studied computer security and software development."
       }
     ],
     "work":[
@@ -66,7 +66,7 @@
         "title":"Blockchain & Full Stack Developer",
         "years":"June 2018 to April 2021",
         "description":"Took part in 10+ blockchain projects associated with NFT minting, staking, marketplace, Defi, ICO, Uniswap and DEX."
-      },
+      }
     ],
     "skills":[
       {
@@ -115,7 +115,7 @@
       },
       {
         "name":"Unity",
-        "level":"100%"
+        "level":"90%"
       },
       {
         "name":"C#",
