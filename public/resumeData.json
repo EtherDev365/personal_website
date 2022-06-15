@@ -1,0 +1,136 @@
+{
+  "main": {
+    "name":"RockStar",
+    "description":"I am senior BlockChain &  Web full-stack & Unity developer with 10 years of background in software development and 5 years of experience in blockchain developemnt",
+    "image":"star.jpg",
+    "bio":"I'm a senior BlockChain &  web full-stack developer with 10+ years of background in software development and 5 years of experience in blockchain development. Personally, I have a great passion at blockchain/web/unity technology and actively seek out new technologies and stay up-to-date on development trends and advancements.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "manukyamruzanna@gmail.com",
+    "phone": "+1 507 564 2876",
+    "github":"https://github.com/EtherDev365",
+    "project":"https://github.com/EtherDev365",
+    "address":{
+      "street":"West 4th Street",
+      "city":"New York",
+      "zip": "10012"
+    },
+    "website": "https://www.goodcv.com/cv/7bedcbbd29b2ad66791fa0717f80d53f",
+    "resumedownload":"https://www.goodcv.com/cv/7bedcbbd29b2ad66791fa0717f80d53f",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/EtherDev365",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Blockchain, Smart Contract, Full Stack Web & Unity Development",
+    "education":[
+      {
+        "school":"BERUFSBILDENDE SCHULE COCHEM",
+        "degree":"Bachelor's degree in computer science",
+        "graduated":"December 2014",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"SLAPCENTER",
+        "title":"Software Engineer",
+        "years":"March 2015 to May 2017",
+        "description":"Led team of 4 junior software engineers undertaking the software development life cycle for 5 bespoke client projects."
+      },
+      {
+        "company":"LUFTHANSA SYSTEMS",
+        "title":"Blockchain & Full Stack Developer",
+        "years":"June 2018 to April 2021",
+        "description":"Took part in 10+ blockchain projects associated with NFT minting, staking, marketplace, Defi, ICO, Uniswap and DEX."
+      },
+    ],
+    "skills":[
+      {
+        "name":"Blochchain",
+        "level":"100%"
+      },
+      {
+        "name":"Smart Contract",
+        "level":"100%"
+      },
+      {
+        "name":"Solidity",
+        "level":"100%"
+      },
+      {
+        "name":"NFT",
+        "level":"100%"
+      },
+      {
+        "name":"Defi",
+        "level":"100%"
+      },
+      {
+        "name":"VueJs",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"100%"
+      },
+      {
+        "name":"Angular",
+        "level":"90%"
+      },
+      {
+        "name":"TypeScript",
+        "level":"100%"
+      },
+      {
+        "name":"React Native",
+        "level":"90%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"Unity",
+        "level":"100%"
+      },
+      {
+        "name":"C#",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"staking, crypto",
+        "image":"01.jpg",
+        "url":"https://vader-dapp.vercel.app/"
+      }
+    ]
+  }
+}
