@@ -20,14 +20,14 @@ class About extends Component {
       <section id="about">
         <Fade duration={1000}>
           <div className="row">
-            <div className="three columns">
+            {/* <div className="three columns">
               <img
                 className="profile-pic"
                 src={profilepic}
                 alt="Nordic Giant Profile Pic"
               />
-            </div>
-            <div className="nine columns main-col">
+            </div> */}
+            <div className="eleven columns main-col">
               <h2>About Me</h2>
 
               <p>{bio}</p>
@@ -37,12 +37,15 @@ class About extends Component {
                   <p className="address">
                     <span>{name}</span>
                     <br />
-                    <span>
+                    {/* <span>
                       {street}
                       <br />
                       {city} {state}, {zip}
-                    </span>
+                    </span> */}
                     <br />
+                    <span>Discord------> etherdev365#1899</span><br></br>
+                    <span>Telegram----> @etherdev365</span><br></br>
+                    <span>Skype--------> live:.cid.8c25c882b087ca53</span><br></br>
                     <span>{phone}</span>
                     <br />
                     <span>{email}</span>

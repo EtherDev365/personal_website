@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"RockStar",
+    "name":"Web & BlockChain",
     "description":"I am senior BlockChain &  Web full-stack & Unity developer with 10 years of background in software development and 5 years of experience in blockchain developemnt",
     "image":"star.jpg",
     "bio":"I'm a senior BlockChain &  web full-stack developer with 10+ years of background in software development and 5 years of experience in blockchain development. Personally, I have a great passion at blockchain/web/unity technology and actively seek out new technologies and stay up-to-date on development trends and advancements.",
@@ -10,9 +10,9 @@
     "github":"https://github.com/EtherDev365",
     "project":"https://github.com/EtherDev365",
     "address":{
-      "street":"West 4th Street",
-      "city":"Wolfsburg",
-      "zip": "10012"
+      "street":"",
+      "city":"",
+      "zip": ""
     },
     "website": "https://www.goodcv.com/cv/7bedcbbd29b2ad66791fa0717f80d53f",
     "resumedownload":"https://www.goodcv.com/cv/7bedcbbd29b2ad66791fa0717f80d53f",
