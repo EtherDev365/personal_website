@@ -6,12 +6,12 @@ class About extends Component {
     if (!this.props.data) return null;
 
     const name = this.props.data.name;
-    const profilepic = "images/" + this.props.data.image;
+    //const profilepic = "images/" + this.props.data.image;
     const bio = this.props.data.bio;
-    const street = this.props.data.address.street;
-    const city = this.props.data.address.city;
-    const state = this.props.data.address.state;
-    const zip = this.props.data.address.zip;
+    //const street = this.props.data.address.street;
+    //const city = this.props.data.address.city;
+    //const state = this.props.data.address.state;
+    //const zip = this.props.data.address.zip;
     const phone = this.props.data.phone;
     const email = this.props.data.email;
     const resumeDownload = this.props.data.resumedownload;
@@ -43,9 +43,9 @@ class About extends Component {
                       {city} {state}, {zip}
                     </span> */}
                     <br />
-                    <span>Discord------> etherdev365#1899</span><br></br>
-                    <span>Telegram----> @etherdev365</span><br></br>
-                    <span>Skype--------> live:.cid.8c25c882b087ca53</span><br></br>
+                    <span>Discord ------ etherdev365#1899</span><br></br>
+                    <span>Telegram ---- @etherdev365</span><br></br>
+                    <span>Skype -------- live:.cid.8c25c882b087ca53</span><br></br>
                     <span>{phone}</span>
                     <br />
                     <span>{email}</span>
